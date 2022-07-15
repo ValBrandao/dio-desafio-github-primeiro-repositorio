@@ -1,5 +1,6 @@
 Link para download do Git: https://git-scm.com/downloads
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
 ANOTAÇÕES DA AULA DE GIT E GITHUB:
 
 ◾Windows , usa dir para lista todas as pasta e depois usar cd / (leva para base do diretório c) aí se usar o dir agora ele vai lista somente as pasta do direito c. Para ir para uma pasta específica e só digitar cd e nome da pasta .  cd .. ( volta)
